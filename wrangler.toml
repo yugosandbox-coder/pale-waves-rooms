@@ -1,6 +1,6 @@
 # PALE WAVES SET THE SKY — online rooms (one Durable Object per room name)
 name = "pale-waves-rooms"
-main = "src/index.js"
+main = "index.js"
 compatibility_date = "2025-09-01"
 
 [[durable_objects.bindings]]
